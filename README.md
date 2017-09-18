@@ -3,11 +3,8 @@ I've played around with how to to one-to-one Factory creation with FactoryBoy
 a number of times. With the latest version of FactoryBoy (2.9.2), I got tired of
 chasing down "how I did it in the past", and decided to build a demo repo.
 
-<span style="background-color: yellow">
-Note, this demo is current for `factory-boy==v2.9.2`. It should work for every
-2.9.x release, but may need to be modified for future releases.
-</span>
-
+**Note, this demo is current for `factory-boy==v2.9.2`. It should work for every
+2.9.x release, but may need to be modified for future releases.**
 
 #### Types
 There are two types of one-to-one mappings exposed in this demo. I'll call the
