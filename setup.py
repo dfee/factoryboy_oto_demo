@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'factory-boy',
+        'factory-boy==2.9.2',
         'pytest'
     ],
 )
